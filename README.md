@@ -1,3 +1,5 @@
+[offical]: https://docs.python.org/3/library/argparse.html#module-argparse
+[muti]: http://chase-seibert.github.io/blog/2014/03/21/python-multilevel-argparse.html
 # argparse
 This repository is a reference for python3 argparse
 
@@ -88,3 +90,9 @@ Result shown as:
 ```
 you choose parameter 5, cmd3, set.
 ```
+## Reference
+For more reference, you can visit:
+
+[Python3 offical reference manual][offical]
+
+[Multi-level argparse in Python][muti]
